@@ -69,3 +69,6 @@ D:\Projects\GettingStartedWithMVC5\MvcMovie\MvcMovie\MvcMovie\obj\Debug\MvcMovie
 D:\Projects\GettingStartedWithMVC5\MvcMovie\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileInputs.cache
 D:\Projects\GettingStartedWithMVC5\MvcMovie\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 D:\Projects\GettingStartedWithMVC5\MvcMovie\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+D:\Projects\GettingStartedWithMVC5\MvcMovie\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+D:\Projects\GettingStartedWithMVC5\MvcMovie\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+D:\Projects\GettingStartedWithMVC5\MvcMovie\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.UpdateAnnotation.resources
